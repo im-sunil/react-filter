@@ -1,7 +1,7 @@
 {
   "name": "react-filter-list",
   "version": "1.0.0",
-  "description": "Using React filter.A searching using title and description.",
+  "description": "React filter list.A searching using title and description.",
   "keywords": ["filter", "presentational", "component", "react", "search"],
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
